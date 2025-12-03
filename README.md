@@ -1,6 +1,6 @@
 # Gridscope-api
 
-A lightweight API built for the Gridscope application.  Its purpose is to provide a simple, clear example of how to design and use a RESTful API while demonstrating the core REST principles in practice. THe following demonstration of the REST princples is partly written with ChatGPT 5.1.
+A lightweight API built for the Gridscope application.  Its purpose is to provide a simple, clear example of how to design and use a RESTful API while demonstrating the core REST principles in practice. The following demonstration of the REST princples is partly written with the help from ChatGPT 5.1.
 
 
 <img width="900" height="600" alt="What-is-REST" src="https://github.com/user-attachments/assets/7e9c326f-449a-46bd-8955-846e31371023" />
