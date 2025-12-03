@@ -8,7 +8,7 @@ A lightweight API built for the Gridscope application.  Its purpose is to provid
 
 ### 1. Client–Server Separation  
 REST separates user interface from data storage and logic.  
-The Angular app runs on a different port, while the API only exposes data on `/api/components` and `/api/history`, keeping both sides independent.
+The Angular app runs on a seperate port, while the API only exposes data on `/api/components` and `/api/history`, keeping both sides independent.
 
 ### 2. Statelessness  
 Each request must contain everything needed, and the server should not store client-specific state.  
