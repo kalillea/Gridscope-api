@@ -1,11 +1,11 @@
 # Gridscope-api
 
-A lightweight API built for the Gridscope application.  Its purpose is to provide a simple, clear example of how to design and use a RESTful API while demonstrating the core REST principles in practice.
+A lightweight API built for the Gridscope application.  Its purpose is to provide a simple, clear example of how to design and use a RESTful API while demonstrating the core REST principles in practice. THe following demonstration of the REST princples is partly written with ChatGPT 5.1.
 
 
 ### 1. Client–Server Separation  
 REST separates user interface from data storage and logic.  
-The Angular app runs on port 4200, while the API only exposes data on `/api/components` and `/api/history`, keeping both sides independent.
+The Angular app runs on a different port, while the API only exposes data on `/api/components` and `/api/history`, keeping both sides independent.
 
 ### 2. Statelessness  
 Each request must contain everything needed, and the server should not store client-specific state.  
